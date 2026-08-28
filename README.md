@@ -35,7 +35,6 @@ uncertainty note. Nothing the AI produces is a black box, and nothing is final u
 human investigator approves it.
 
 ## Features
-
 - Investigator dashboard with case stats and live agent activity
 - Full case view: evidence, correlation graph, timeline, risk score, AI copilot — six
   tabs, each backed by a real agent
