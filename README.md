@@ -86,7 +86,6 @@ same shared shape, and the frontend renders it with one reusable component
 
 Deliberately kept small so it's easy to understand end to end and easy to defend in a
 Q&A.
-
 **Frontend:** React + Vite, plain CSS, no router (single-page state switching)
 **Backend:** Python + FastAPI
 **AI:** Gemini API (generation + embeddings), LangGraph for agent orchestration
