@@ -3,7 +3,6 @@
 **Explainable Multi-Agent Child Protection Investigation Assistant**
 
 Built for HAC'KP 2026.
-
 ---
 
 ## The problem
